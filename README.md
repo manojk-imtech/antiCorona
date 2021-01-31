@@ -1,4 +1,6 @@
-# antiCorona Repository with jupyter notebooks for regression-based problems using machine learning techniques like Support Vector Machine (SVM), Random Forest (RF), k-Neural Network (kNN), Artificial Neural Network (ANN), and Deep Neural network (DNN):
+# antiCorona Repository 
+
+Jupyter notebooks for regression-based problems using machine learning techniques like Support Vector Machine (SVM), Random Forest (RF), k-Neural Network (kNN), Artificial Neural Network (ANN), and Deep Neural network (DNN):
 
 - ANN_Regression - Jupyter notebook to perform the Artificial Neural Network (ANN) based on regression problem.
 - Tensor_flow_Regression - Jupyter notebook to perform the Deep Neural Network/Artificial Network (DNN/AI) based on regression problem.
